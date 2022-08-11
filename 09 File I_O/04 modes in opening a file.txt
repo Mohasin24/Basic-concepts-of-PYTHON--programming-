@@ -1,0 +1,8 @@
+
+r = open for reading
+w = open for write
+a = open for append
++ = open for uapdate
+
+'rt' will open for read in text mode if you did not use t after r it will default 
+'rb' open for read in binary mode here ypu have to put b after r it is not default 
